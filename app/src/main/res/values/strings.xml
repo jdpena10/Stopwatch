@@ -1,0 +1,5 @@
+<resources>
+    <string  name="start">Inicio</string>
+    <string  name="stop">Detener</string>
+    <string  name="reset">Restablecer</string>
+</resources>
